@@ -1,0 +1,1 @@
+reverse(num / 10);
