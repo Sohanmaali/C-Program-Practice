@@ -11,7 +11,6 @@ int main()
     {
         for (j = 1; j <= i; j++)
         {
-
             temp = 0;
             temp = j % 2;
             if (temp != 0)
